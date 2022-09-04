@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Bobby Sadhwani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+## Hi 👋, I'm Bobby Sadhwani, a passionate frontend developer from India.
+<div align="center">
+  <a href="https://github.com/Bobby-coder">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bobby-coder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-coder&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobby-coder&label=Profile%20views&color=0e75b6&style=flat" alt="bobby-coder" /> </p>
+<div style="display: inline_block"><br>
+   
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right"  height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966?width=676&height=676">
+  
+</div>
+  
+  ##
+ <a href = "https://www.linkedin.com/in/bobby-sadhwani">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+ <a href = "https://bobby-sadhwani.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+ <a href = "https://twitter.com/BOBBY__SADHWANI">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+ <a href = "https://twitter.com/BOBBY__SADHWANI">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+ <a href = "https://twitter.com/BOBBY__SADHWANI">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
-- 👨‍💻 All of my projects are available at [https://bobby-sadhwani.netlify.app](https://bobby-sadhwani.netlify.app)
-
-- 📝 I regularly write articles on [https://bobby-sadhwani.hashnode.dev](https://bobby-sadhwani.hashnode.dev)
-
-- 📫 Reach me **bobbysadhwani612@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bobby-sadhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobby-sadhwani" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bobby-sadhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bobby-sadhwani" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobby-coder&show_icons=true&locale=en&layout=compact" alt="bobby-coder" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobby-coder&show_icons=true&locale=en" alt="bobby-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobby-coder&" alt="bobby-coder" /></p>
