@@ -1,10 +1,9 @@
 ## Hi 👋, I'm Bobby Sadhwani, a passionate frontend developer from India.
-<div align="center">
-  <a href="https://github.com/Bobby-coder">
-  <img height="180em" width="380px" src="https://github-readme-stats.vercel.app/api?username=Bobby-coder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-coder&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
+  [![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobby-coder&hide=prs,issues&show_icons=true&theme=midnight-purple)](https://github.com/Bobby-coder/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-coder&layout=compact&theme=midnight-purple)](https://github.com/Bobby-coder/github-readme-stats)
+ 
 <div style="display: inline_block"><br>
    
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
