@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Bobby Sadhwani, a passionate frontend developer from India.
 
-  [![Bobby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobby-coder&hide=prs,issues&show_icons=true&theme=midnight-purple)](https://github.com/Bobby-coder/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-coder&layout=compact&theme=midnight-purple)](https://github.com/Bobby-coder/github-readme-stats)
  
