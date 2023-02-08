@@ -1,22 +1,33 @@
-## Hi 👋, I'm Bobby Sadhwani, a passionate frontend developer from India.
+<div align="center">
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-coder&layout=compact&theme=midnight-purple)](https://github.com/Bobby-coder/github-readme-stats)
- 
-<div style="display: inline_block"><br>
-   
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right"  height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966?width=676&height=676">
-  
+I'm a **frontend developer, Absolute JavaScrpt Enthusiast, and Tech Blogger.** 
+<br>
+I am focused on crafting clean and user friendly experiences. Good hands in responsive Web Design and analyzing and fixing bugs quickly. Proficiency in code optimization to improve the performance.
+
+**If you need a frontend dev, hire me ➡ [Portfolio](https://bobby-sadhwani.netlify.app)**
+
+You can connect with me via this **[LinkedIn](https://www.linkedin.com/in/bobby-sadhwani)** or by **[Mail](mailto:bobbysadhwani612@gmail.com)**.
 </div>
-  
-  ##
- <a href = "https://www.linkedin.com/in/bobby-sadhwani">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
- <a href = "https://bobby-sadhwani.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
- <a href = "https://twitter.com/BOBBY__SADHWANI">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
- </a>
 
+<h2> 🥞 Tech Stack</h2>
+<p align="center">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%23e21717.svg?style=for-the-badge&logo=css3&logoColor=eee"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="ReactJs" src="https://img.shields.io/badge/react-f2ca61.svg?style=for-the-badge&logo=react&logoColor=140200"/>
+<img alt="NodeJs" src="https://img.shields.io/badge/node.js-%23f2ca61.svg?style=for-the-badge&logo=node.js&logoColor=%FFFFFF"/>
+<img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
+  </p>
+<br>
+
+## My GitHub Stats 📈
+<p align="center">
+<a href="https://github.com/Bobby-coder">
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bobby-coder&layout=compact&theme=midnight-purple" />
+</a>
+</p>
+
+<h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
