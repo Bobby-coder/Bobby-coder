@@ -17,8 +17,8 @@ You can connect with me via this **[LinkedIn](https://www.linkedin.com/in/bobby-
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="ReactJs" src="https://img.shields.io/badge/react-f2ca61.svg?style=for-the-badge&logo=react&logoColor=140200"/>
 <img alt="NodeJs" src="https://img.shields.io/badge/node.js-%23f2ca61.svg?style=for-the-badge&logo=node.js&logoColor=%FFFFFF"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23e4626b.svg?style=for-the-badge&logo=git&logoColor=140200"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
   </p>
 <br>
 
