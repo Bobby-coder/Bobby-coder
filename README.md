@@ -1,6 +1,6 @@
 <div align="center">
 
-I'm a **frontend developer, Absolute JavaScrpt Enthusiast, and Tech Blogger.** 
+I'm a **fullstack developer, Absolute JavaScrpt Enthusiast, and Tech Blogger.** 
 <br>
 I am focused on crafting clean and user friendly experiences. Good hands in responsive Web Design and analyzing and fixing bugs quickly. Proficiency in code optimization to improve the performance.
 
