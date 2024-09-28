@@ -4,7 +4,7 @@ I'm a **fullstack developer, Absolute JavaScrpt Enthusiast, and Tech Blogger.**
 <br>
 I am focused on crafting clean and user friendly experiences. Good hands in responsive Web Design and analyzing and fixing bugs quickly. Proficiency in code optimization to improve the performance.
 
-**If you need a frontend dev, hire me ➡ [Portfolio](https://bobby-sadhwani.vercel.app/)**
+**If you need a fullstack dev, hire me ➡ [Portfolio](https://bobby-sadhwani.vercel.app/)**
 
 You can connect with me via this **[LinkedIn](https://www.linkedin.com/in/bobby-sadhwani)** or by **[Mail](mailto:bobbysadhwani612@gmail.com)**.
 </div>
